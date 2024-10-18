@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Kyoto_Northern;
+    src: url(Fonts/kyoto\ northern.ttf);
+    color: #FAF7F0;
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(Fonts/Montserrat-Medium.otf);
+    color: #FAF7F0;
+}
+@font-face {
+    font-family: Mont-Light;
+    src: url(Fonts/Montserrat-Light.otf);
+}
+@font-face {
+    font-family: Mont-Bold;
+    src: url(Fonts/Montserrat-ExtraBold.otf);
+}
+@font-face {
+    font-family: GC;
+    src: url(Fonts/Greater-Creation-Demo-BF6687b4f3887c6.ttf);
+}
+body
+{
+    color: #4A4947;
+}
